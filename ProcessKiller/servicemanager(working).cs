@@ -25,8 +25,6 @@ namespace ProcessKiller
         ServerInformation serverInformation = new ServerInformation();
         DataBaseInformation dbInformation = new DataBaseInformation();
         ServiceInformation serviceInformation = new ServiceInformation();
-        //private String user =       "administrator";
-        //private String pass =       "PLan0Labs!";
         private String hostname =   "ACCCMHA2";
 
         public static String selectedService;
